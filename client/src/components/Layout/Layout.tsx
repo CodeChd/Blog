@@ -5,8 +5,7 @@ interface Props {
 }
 function Layout({children}: Props) {
     return (
-        <div className="max-w-[60%] mx-auto text-[#f4f4f5]">{children}</div>
+        <div className="max-w-[70%] mx-auto text-[#f4f4f5] ">{children}</div>
     );
 }
-
 export default Layout;
