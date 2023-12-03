@@ -1,6 +1,7 @@
 import Layout from "./components/Layout/Layout.tsx";
 import Header from "./components/Header/Header.tsx";
 import {Outlet} from "react-router-dom";
+import Footer from "./components/Footer/Footer.tsx";
 
 function App() {
 
@@ -10,6 +11,7 @@ function App() {
             <Layout>
                 <Outlet/>
             </Layout>
+            <Footer/>
         </>
     )
 }
