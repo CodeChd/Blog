@@ -5,11 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc921bf9-8ddd-4fa7-be9b-d5532a5beffd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/components/Footer/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/api/likes.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/api/likesApi.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/data/posts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/utils/calculateReadTime.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/BlogLists/BlogLists.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/BlogLists/BlogLists.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/BlogPost/BlogPost.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/BlogPost/BlogPost.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Hero/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Hero/Hero.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/screens/BlogDetails/BlogDetails.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/screens/BlogDetails/BlogDetails.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,11 +31,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" environment="test" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,7 +73,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "C:\\Users\\DESTOP\\Desktop\\Blog\\client\\node_modules\\typescript\\lib"
   }
 }]]></component>
@@ -64,6 +84,24 @@
       <recent name="C:\Users\DESTOP\Desktop\Blog\client\src\components\Hero" />
       <recent name="C:\Users\DESTOP\Desktop\Blog\client" />
     </key>
+  </component>
+  <component name="RunManager" selected="HTTP Request.likes | FETCH LIKES">
+    <configuration name="likes | FETCH LIKES" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/client/src/api/likes.http" index="2" requestIdentifier="FETCH LIKES" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="likes | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/client/src/api/likes.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="likes | get likes" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/client/src/api/likes.http" index="2" requestIdentifier="get likes" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.likes | get likes" />
+        <item itemvalue="HTTP Request.likes | #1" />
+        <item itemvalue="HTTP Request.likes | FETCH LIKES" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -87,7 +125,9 @@
       <workItem from="1701492952377" duration="1815000" />
       <workItem from="1701500158573" duration="255000" />
       <workItem from="1701514752136" duration="4405000" />
-      <workItem from="1701560954897" duration="7798000" />
+      <workItem from="1701560954897" duration="39112000" />
+      <workItem from="1701651709026" duration="6586000" />
+      <workItem from="1701671318260" duration="10410000" />
     </task>
     <servers />
   </component>

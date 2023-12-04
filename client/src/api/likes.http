@@ -1,0 +1,12 @@
+### SUBMIT LIKES
+POST http://localhost:5000/api/likes
+Content-Type: application/json
+
+{
+  "likeNumber": 1
+}
+
+### FETCH LIKES
+GET http://localhost:5000/api/likes
+Content-Type: application/json
+
