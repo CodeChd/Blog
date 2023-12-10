@@ -4,7 +4,7 @@ import posts, {PostProps} from "../../data/posts.ts";
 
 function BlogDetails() {
     const {id} = useParams()
-    // Blog post details
+    // Blog post details 
     // @ts-ignore
     const data: PostProps = posts.find(data => data.id === Number(id))
 
