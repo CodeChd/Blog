@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc921bf9-8ddd-4fa7-be9b-d5532a5beffd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/client/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/api/likes.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/api/likesApi.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/data/posts.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/utils/calculateReadTime.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/BlogLists/BlogLists.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/BlogLists/BlogLists.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/BlogPost/BlogPost.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/BlogPost/BlogPost.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Hero/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Hero/Hero.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/screens/BlogDetails/BlogDetails.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/screens/BlogDetails/BlogDetails.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,23 +46,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/DESTOP/Desktop/HERE/directory_client--main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "C:\\Users\\DESTOP\\Desktop\\Blog\\client\\node_modules\\typescript\\lib"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DESTOP/Desktop/HERE/directory_client--main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\DESTOP\\Desktop\\Blog\\client\\node_modules\\typescript\\lib&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DESTOP\Desktop\Blog\client\src\screens\BlogDetails" />
@@ -103,6 +89,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-56bbcd2c060c-JavaScript-WS-233.11799.229" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -127,7 +120,11 @@
       <workItem from="1701514752136" duration="4405000" />
       <workItem from="1701560954897" duration="39112000" />
       <workItem from="1701651709026" duration="6586000" />
-      <workItem from="1701671318260" duration="10410000" />
+      <workItem from="1701671318260" duration="11185000" />
+      <workItem from="1702192840082" duration="5000" />
+      <workItem from="1702192874090" duration="3378000" />
+      <workItem from="1702261775242" duration="14000" />
+      <workItem from="1702304427222" duration="612000" />
     </task>
     <servers />
   </component>
